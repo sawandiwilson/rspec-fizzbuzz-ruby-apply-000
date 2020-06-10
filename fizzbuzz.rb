@@ -5,6 +5,4 @@ if int % 3 == 0
   "Buzz"
 else int % 3 == 0 and int % 5 = 0
   "Fizzbuzz"
-
-end
 end
