@@ -4,7 +4,7 @@ if int % 5 == 0 and int % 3 == 0
 elsif
    if int % 3 == 0
   "Fizz"
-else
+elsif
    if int % 5 == 0
   "Buzz"
 end
