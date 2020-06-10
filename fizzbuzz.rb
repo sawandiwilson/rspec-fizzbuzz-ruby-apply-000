@@ -6,5 +6,6 @@ end
   "Buzz"
 end
 if int % 15 == 0 
+  "Fizzbuzz"
 end
 end
