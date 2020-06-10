@@ -1,3 +1,2 @@
 def fizzbuzz(int)
-  fizzbuzz (3) == "Fizz"
-  end
+if int % 3 == 0
